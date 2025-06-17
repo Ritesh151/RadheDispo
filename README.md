@@ -57,7 +57,4 @@ Welcome to the official GitHub repository of **RadheDispoWorld**, a modern and r
 ```bash
 npm install
 npm start
-
-
-```Backend
 node index.js
