@@ -43,5 +43,20 @@ Welcome to the official GitHub repository of **RadheDispoWorld**, a modern and r
 
 ---
 
-## 📁 Folder Structure
 
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/RadheDispoWorld.git
+   cd RadheDispoWorld
+npm install
+npm start
+
+
+## Backend
+node index.js
